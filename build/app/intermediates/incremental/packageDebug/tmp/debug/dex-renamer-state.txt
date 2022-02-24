@@ -1,0 +1,4 @@
+#Wed Feb 23 20:37:36 BRT 2022
+base.0=/home/marcuspc/workspace/Flutter/TesteFlutter/apirest_consumer/flutter_apirest/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
